@@ -1,6 +1,5 @@
 package org.zyz;
-    
-import org.json.JSONObject;
+
 
 public class IPCCommunication {
     private final EventDispatcher dispatcher;
